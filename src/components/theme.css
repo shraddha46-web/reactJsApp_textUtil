@@ -1,0 +1,21 @@
+.darkTheme{
+    background-color: #2a5878;
+    color:white;
+    
+}
+.darkTheme nav{
+    background-color: #092c44;
+}
+.darkTheme a {
+    color:white!important;
+}
+.lightTheme{
+    background-color: white;
+    color: black;
+}
+.lightTheme nav{
+    background-color:#d7d3d3;
+}
+.lightTheme a {
+    color:black !important;
+}
